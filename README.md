@@ -1,7 +1,7 @@
 # Projeto com README
 Um projeto de teste com um arquivo README 🚀
 
- <img src="./tela.gif" alt="gif da tela inicial do projeto README"/>(http://google.com)
+ <img src="https://i.gifer.com/JL0t.gif" alt="gif da tela inicial do projeto README"/>(http://google.com)
 
  <p align="center">
   <img src="./tela.gif" alt="teste"  />
