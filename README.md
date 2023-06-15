@@ -7,6 +7,8 @@ Um projeto de teste com um arquivo README 🚀
   <img src="./tela.gif" alt="teste"  />
 </p>
 
+<img src=./tela.gif alt='tela inicial do projeto README' />
+
 
 
 ## Tecnologias utilizadas
