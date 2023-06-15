@@ -9,6 +9,8 @@ Um projeto de teste com um arquivo README 🚀
 
 <img src=./tela.gif alt='tela inicial do projeto README' />
 
+<img src='https://user-images.githubusercontent.com/30608100/29052693-ae033ec0-7c26-11e7-9789-d3059d90596d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 
 ## Tecnologias utilizadas
