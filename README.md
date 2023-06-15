@@ -3,6 +3,10 @@ Um projeto de teste com um arquivo README 🚀
 
  <img src="./tela.gif" alt="gif da tela inicial do projeto README"/>(http://google.com)
 
+ <p align="center">
+  <img src="./tela.gif" alt="teste"  />
+</p>
+
 
 
 ## Tecnologias utilizadas
